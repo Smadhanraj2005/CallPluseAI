@@ -1,0 +1,6 @@
+{
+  "name": "CallPulse – AI Sales Dialer & Call Tracking System",
+  "description": "Professional Sales Dialer & Call Intelligence app with Role-Based Access Control, live call tracking, call recording consumer sentiment analysis with Gemini AI, metric dashboards, and reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
